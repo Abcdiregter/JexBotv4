@@ -1,1 +1,25 @@
-<body style='color: transparent;background-color: black'><center><h1><b style='color: white'>Vuln!! patch it now!<p style='color: transparent'>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hacked by secluis</title>
+  <style>
+    body {
+      background-color: black;
+      color: red;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h3 {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <p>Hacked by secluis</p>
+  <h3>telegram : secluis8</h3>
+</body>
+</html>
